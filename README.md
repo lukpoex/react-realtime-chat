@@ -22,7 +22,7 @@ Experience the power of real-time communication with the Realtime Group Chat Web
 2. Clone the repository:
 
    ```shell
-   git clone https://github.com/Alvalens/react-realtime-chat.git
+   git clone https://github.com/lukpoex/react-realtime-chat.git
    ```
 3. Navigate to the project directory:
 
